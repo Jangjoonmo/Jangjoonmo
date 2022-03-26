@@ -1,5 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A0A0A0&height=250&section=header&text=%20Jangjoonmo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20portfolio&descAlignY=62&descAlign=62)
+
+LEARNNING : 
+<img src="https://img.shields.io/badge/--A8B9CC?style=flat-square&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=black"/> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/> <img src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=black"/> 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jangjoonmo&layout=compact)](https://github.com/Jangjoonmo/github-readme-stats)
 
 <!--
